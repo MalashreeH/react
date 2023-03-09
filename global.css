@@ -1,0 +1,37 @@
+.parentBlock
+{
+
+justify-content:space-evenly ;
+}
+.mainBlock
+{
+    background-color:rgba(217, 255, 0, 0.829);
+    border: 5px solid red;
+    width:350px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items:center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.A{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.h1
+{
+    color: red;
+}
+.h2
+{
+    color:fuchsia;
+    font-style:italic ;
+    
+}
+.h3
+{
+    color:blueviolet;
+}
