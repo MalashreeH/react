@@ -1,0 +1,31 @@
+[{
+"name":"MALA",
+"id":101,
+"branch":"CSE",
+"phone":[9008784754,7865784903,937675366],
+"photo":"https://2.bp.blogspot.com/-Nb2FHXDNL_c/VhnDMNYuY7I/AAAAAAAA-Wo/vAlscuttJzY/s1600/dora%2B3%2Bhr.png"
+
+},
+{
+    "name":"POOJA",
+    "id":102,
+    "branch":"EEE",
+    "phone":[8695784754,7846857843,932675366],
+"photo":"https://th.bing.com/th/id/OIP.BWMjS5Ruo7-051EPld8UugHaMH?pid=ImgDet&rs=1"
+},
+{
+    "name":"POORNIMA",
+    "id":103,
+    "branch":"CIVIL",
+    "phone":[9908784754,7835784903,937635366],
+    "photo":"https://th.bing.com/th/id/OIP.mz7k_1z8s5rbLQYO4TipKAHaLA?pid=ImgDet&w=880&h=1308&rs=1 "
+},
+{
+    "name":"VIJJU",
+    "id":104,
+    "branch":"CSE",
+    "phone":[9058784754,7815784903,937775366],
+    "photo":"https://th.bing.com/th/id/R.30514ea47cea6a3f5bc5be86867f9e91?rik=gGrOFuBYPg797Q&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2feTM%2fyMj%2feTMyMjeXc.jpg&ehk=ZlDK2O0mrQQwznuTqThpcsmzGf%2fUjUrRQP98sp4iHfA%3d&risl=&pid=ImgRaw&r=0"
+    }
+
+]
